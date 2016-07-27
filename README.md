@@ -29,6 +29,11 @@ This extension contributes the following settings:
 
 * Using the command with text highlighted will not properly replace that text.
 
+## Setting Up Dev Environment
+
+1. Clone the repo
+2. run `npm install && npm postinstall`
+
 ## Release Notes
 
 ### 1.0.0
