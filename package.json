@@ -3,7 +3,7 @@
   "displayName": "hipsum",
   "description": "Grabs paragraphs of from the hipsum.co placeholder text api and inserts them",
   "version": "1.0.0",
-  "publisher": "hipsum",
+  "publisher": "third774",
   "engines": {
     "vscode": "^1.0.0"
   },
