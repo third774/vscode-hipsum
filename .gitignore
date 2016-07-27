@@ -1,0 +1,4 @@
+out
+node_modules
+typings/globals
+typings/index.d.ts
