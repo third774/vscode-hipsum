@@ -2,7 +2,7 @@
   "name": "hipsum",
   "displayName": "hipsum",
   "description": "Grabs paragraphs of from the hipsum.co placeholder text api and inserts them",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "hipsum",
   "engines": {
     "vscode": "^1.0.0"
