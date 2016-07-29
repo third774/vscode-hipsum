@@ -6,7 +6,7 @@ A Visual Studio Code extension that can insert hipster placeholder text from the
 
 Use the `hipsum` command (press F1 to open Command Palette) to hit the Hipsum API (at [http://hipsterjesus.com/](http://hipsterjesus.com/)) and insert the text into the editor.
 
-![alt text](./Animation.gif "Functionality Preview")
+![alt text](https://github.com/third774/vscode-hipsum/raw/master/Animation.gif "Functionality Preview")
 
 <!-- Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
