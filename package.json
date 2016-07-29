@@ -1,7 +1,7 @@
 {
     "name": "hipsum",
     "displayName": "hipsum",
-    "description": "Inserts hipster placeholder text (lorem ipsum) into the editor.",
+    "description": "Inserts hipster placeholder text (lorem ipsum) from http://hipsterjesus.com/ into the editor.",
     "version": "1.0.2",
     "publisher": "third774",
     "engines": {
