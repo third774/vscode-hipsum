@@ -1,8 +1,8 @@
 {
     "name": "hipsum",
     "displayName": "hipsum",
-    "description": "Grabs paragraphs of from the hipsum.co placeholder text api and inserts them",
-    "version": "1.0.1",
+    "description": "Inserts hipster placeholder text (lorem ipsum) into the editor.",
+    "version": "1.0.2",
     "publisher": "third774",
     "engines": {
         "vscode": "^1.0.1"
