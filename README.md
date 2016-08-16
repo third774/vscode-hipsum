@@ -18,6 +18,9 @@ Use the `hipsum` command (press F1 to open Command Palette) to hit the hipster i
 
 ## Release Notes
 
+### 1.0.7
+Add repo metadata - thanks, [Tyriar](https://github.com/Tyriar)!
+
 ### 1.0.1 - 1.0.4
 
 README.md updates
