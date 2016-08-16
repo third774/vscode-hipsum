@@ -7,6 +7,17 @@
     "engines": {
         "vscode": "^1.0.1"
     },
+    "bugs": {
+        "url": "https://github.com/third774/vscode-hipsum/issues"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "homepage": "https://github.com/third774/vscode-hipsum",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/third774/vscode-hipsum"
+    },
     "categories": [
         "Other"
     ],
